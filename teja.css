@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration:none;
+    padding:15px;
+    color:cadetblue;
+}
+header{
+    background-color: black;
+    padding: 20px;
+}
+header h1{
+    color:firebrick;
+}
+#Home img{
+    border-radius: 50%;
+    height:180px;
+    width:180x;
+}
+#Home p{
+    word-spacing: 10px;
+}
+#Portfolio{
+    background-color:azure;
+    padding: 10px;
+}
+#Skills ul li{
+    display:inline;
+    padding:10px;
+}
+footer{
+    background-color: wheat;
+    padding:20px;
+}
+footer{
+    color:black;
+}
+footer{
+    text-align: center;
+}
